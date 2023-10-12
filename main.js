@@ -1,4 +1,3 @@
-// Espera a que el documento esté completamente cargado
 document.addEventListener("DOMContentLoaded", function () {
     var map = L.map('map', {
         center: [8.218960988257237, -62.818975274847546],
@@ -23,7 +22,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 [8.21898922469635, -62.818811653209224],
                 [8.21890171978739, -62.818878967648494]
             ],
-            popupContent: "Eduardo Nole 🍎152 🏡28"
+            popupContent: "Eduardo Nole \n 🍎152 🏡28"
         },
         {
             coordinates: [
@@ -32,7 +31,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 [8.218922789912368, -62.818745664521686],
                 [8.218834242493942, -62.81881625261785]
             ],
-            popupContent: "Richard Rodríguez 🍎152 🏡27"
+            popupContent: "Richard Rodríguez \n 🍎152 🏡27"
         },
         {
             coordinates: [
@@ -41,7 +40,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 [8.21886836168502, -62.81867343484189],
                 [8.218786313149112, -62.8187358150199]
             ],
-            popupContent: "Santa Marina 🍎152 🏡26"
+            popupContent: "Santa Marina \n 🍎152 🏡26"
         },
         {
             coordinates: [
@@ -50,7 +49,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 [8.218814745811985, -62.81859710120303],
                 [8.218710763492112, -62.81867507642552]
             ],
-            popupContent: "Edgar Peña 🍎152 🏡25"
+            popupContent: "Edgar Peña \n 🍎152 🏡25"
         },
         {
             coordinates: [
